@@ -1,1 +1,1 @@
-# smart-medibox-version 1
+# smart-medibox
