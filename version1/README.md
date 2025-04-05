@@ -67,18 +67,19 @@ Include the following libraries in your Arduino IDE:
 
 ---
 
-## Installation
+## ⚙️ Installation & Setup (Using Wokwi Simulator)
 
-1. Connect all hardware components as per the circuit diagram  
-2. Install the **Arduino IDE**  
-3. Install the required libraries via **Library Manager**:
-   - Adafruit GFX Library  
-   - Adafruit SSD1306  
-   - DHT sensor library for ESPx  
-   - WiFi library (comes with ESP32 board package)  
-4. Select your **ESP32 board** in the Arduino IDE  
-5. Upload the code to your ESP32  
+1. Open the Wokwi project in your browser.   
+2. Ensure all components (ESP32, OLED, DHT22, buttons, buzzer, LED, etc.) are correctly connected as per the circuit diagram in the Wokwi workspace.  
+3. In the **Wokwi code editor**, include the necessary libraries at the top of your code:
+   - `Adafruit GFX`  
+   - `Adafruit SSD1306`  
+   - `DHTesp`  
+   - `WiFi` and `time.h` for NTP time sync  
+4. Simulate the project by clicking the **Start Simulation** button.  
+5. Use the virtual buttons to navigate the interface, set alarms, and test environmental monitoring features.  
 
+> ✅ **Note**: No physical hardware or Arduino IDE installation is required when using Wokwi. All simulation happens in-browser.
 ---
 
 ## Usage Instructions
