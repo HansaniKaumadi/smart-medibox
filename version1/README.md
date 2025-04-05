@@ -1,4 +1,4 @@
-# MediBox: ESP32-based Medicine Reminder System
+# MediBox-version 1: ESP32-based Medicine Reminder System
 
 ## Overview
 **MediBox** is a smart medication reminder system built using an ESP32 microcontroller.  
