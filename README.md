@@ -33,5 +33,17 @@
   <!-- Wokwi (Rehosted image) -->
   <img src="https://github.com/user-attachments/assets/8434207a-5fdb-45a9-81ab-56f947724a78" alt="Wokwi" width="10%" />
 
+   <img src="https://github.com/user-attachments/assets/e495c4ea-5b44-4252-9519-67ee4fc93747" alt="hivemq" width="10%" />
+
 
 </p>
+
+
+
+
+
+
+
+
+
+
