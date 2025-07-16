@@ -8,31 +8,30 @@
 ## 🛠 Tools & Technologies Used
 
 <p align="left">
-  <!-- MATLAB -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="10%" />
-
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="10%" />
-
-  <img src="https://github.com/user-attachments/assets/53058a18-45e3-4ad8-af4e-9ba7286cac78" alt="NumPy Logo" width="10%" />
-
-  <img src="https://github.com/user-attachments/assets/0b34616e-b418-4de2-9a89-5b7b485c8ec0" alt="Pandas" width="10%" />
   
- 
-  
-  <img src="https://github.com/user-attachments/assets/168d0ca4-ee1e-4222-a321-587b8fb59ae0" alt="scikit" width="10%" />
-
    <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="10%" />
-
-  <!-- SolidWorks (Rehosted image) -->
-  <img src="https://github.com/user-attachments/assets/112e4167-dc82-49ab-9a8f-f10b2238039d" alt="solidworks" width="10%" />
-
-  
-
-  <!-- Altium Designer (Rehosted image) -->
-  <img src="https://github.com/user-attachments/assets/3a61512c-cacb-4f53-a93b-980fc2284c81" alt="Altium Designer" width="20%"/>
 
 
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="10%" />
+
+   <!-- Arduino -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="10%" />
+
+  <!-- Node-RED -->
+  <img src="https://nodered.org/about/resources/media/node-red-icon.png" alt="Node-RED" width="10%" />
+
+<!-- Javascript -->
+  <img src="https://github.com/user-attachments/assets/281b43fa-78e9-406d-b548-2ad306e78ab5" alt="images (1)" width="10%" />
+
+
+
+
+
+
+  <!-- Wokwi (Rehosted image) -->
+  <img src="https://github.com/user-attachments/assets/8434207a-5fdb-45a9-81ab-56f947724a78" alt="Wokwi" width="10%" />
+
+
+</p>
