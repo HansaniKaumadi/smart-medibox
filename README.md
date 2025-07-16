@@ -7,7 +7,7 @@
 
 ## 🛠 Tools & Technologies Used
 
-<p align="left">
+<p align="center">
   
    <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="10%" />
