@@ -21,3 +21,18 @@
  
   
   <img src="https://github.com/user-attachments/assets/168d0ca4-ee1e-4222-a321-587b8fb59ae0" alt="scikit" width="10%" />
+
+   <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="10%" />
+
+  <!-- SolidWorks (Rehosted image) -->
+  <img src="https://github.com/user-attachments/assets/112e4167-dc82-49ab-9a8f-f10b2238039d" alt="solidworks" width="10%" />
+
+  
+
+  <!-- Altium Designer (Rehosted image) -->
+  <img src="https://github.com/user-attachments/assets/3a61512c-cacb-4f53-a93b-980fc2284c81" alt="Altium Designer" width="20%"/>
+
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="10%" />
